@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">IF570_LAB_UTS_Agustinus_00000053639</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_name_empty">Name cannot be empty</string>
+
+    //Dari activity_landing
+    <string name="NameAPK">Pokemon</string>
+    <string name="Deskripsi">Become A Master</string>
+    <string name="NameHint">Enter your name Here 💕</string>
+    <string name="login_button">Login</string>
+
+    //Dari HomeActivity
+    <string name="TitleHome">Pokemon</string>
+    <string name="TitleBall">Charizard ball</string>
+    <string name="BackgroundPoke">Pokemon Background</string>
+    <string name="keluar">Logout</string>
+
+    //Dari TabsAdapter
+    <string name="CE_title">Pokedex</string>
+    <string name="Profile_title">Profile</string>
+
+    //Pembuat
+    <string name="Pembuat">Agustinus</string>
+
+    //Refrensi
+    <string name="refrensi">References:</string>
+
+    //Tombol back
+    <string name="BackBTTN">Back</string>
+
+</resources>

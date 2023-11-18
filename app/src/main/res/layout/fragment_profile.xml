@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cgradient">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="ScrollViewSize">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="209dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="-25dp"
+            app:srcCompat="@drawable/megachar"
+            tools:ignore="ContentDescription,RtlHardcoded" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_marginTop="13dp"
+            android:contentDescription="@string/Pembuat"
+            android:src="@drawable/agustinus" />
+
+        <TextView
+            android:id="@+id/welcomeTextView"
+            android:layout_width="411dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/shojumaru"
+            android:gravity="center"
+            android:text=""
+            android:textAlignment="center"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="@string/refrensi"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="Modul 2 \n 📄 Building User Screen Flows 📄"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="Modul 3 \n 📄 Developing the UI with Fragments 📄"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="Modul 4 \n 📄 Building App Navigation 📄"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="Modul 5 \n 📄 Essential Libraries: Retrofit, Moshi, and Glide 📄"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="Modul 6 \n 📄 Adding and Interacting with RecyclerView 📄"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="Vertical Dots free icon\n 🔗 http://bit.ly/3ZXfBUv"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="Mega Charizard X Wallpaper \n
+            🔗 https://wallpapersafari.com/w/JQ91Ki"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="PokeApi\n
+            🔗https://pokeapi.co/api/v2/ \n
+            🔗https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="Charmander Pokemon \n
+            🔗https://www.klipartz.com/en/sticker-png-rbgcs"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText"/>
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="HD yellow gradient wallpapers \n
+            🔗https://www.peakpx.com/en/search?q=yellow+gradient"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/new_rocker"
+            android:gravity="center_horizontal"
+            android:text="TabLayout with ViewPager2 in Kotlin Language - 2022 \n
+            🔗https://www.peakpx.com/en/search?q=yellow+gradient"
+            android:textSize="14sp"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+</ScrollView>

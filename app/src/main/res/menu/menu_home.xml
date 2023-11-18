@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_opsimenu"
+        android:title=""
+        android:icon="@drawable/ic_overflow"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:title=""
+                android:id="@+id/action_user_profile"
+                app:showAsAction="ifRoom"
+                android:icon="@drawable/person"/>
+
+            <item
+                android:id="@+id/action_logout"
+                app:showAsAction="ifRoom"
+                android:title="@string/keluar"
+                android:icon="@drawable/keluar"/>
+        </menu>
+    </item>
+</menu>
+
+
+
