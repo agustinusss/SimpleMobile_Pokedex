@@ -4,7 +4,7 @@ The Pokemon API client uses Moshi and Retrofit with Kotlin
 Preview :
 
 Landing Screen
-![745179_0](https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/344b393c-ac9e-48d7-8e0e-44382aab6859)
+<img src="https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/344b393c-ac9e-48d7-8e0e-44382aab6859" alt="Alt Text" width="100"/>
 
 Home Screen
 ![745180_0](https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/94d40284-0cb8-447d-a150-d36098c84617)
