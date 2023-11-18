@@ -8,7 +8,9 @@
   The Pokemon API client built using Moshi and Retrofit with Kotlin.
 </p>
 
-## Preview:
+<div align="center">
+
+## Preview
 
 ### Landing Screen
 <img src="https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/344b393c-ac9e-48d7-8e0e-44382aab6859" width="100"/>
@@ -22,6 +24,10 @@
 
 ### Profile Screen
 <img src="https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/435ea05f-e0d0-4c3c-834c-43122f3eeff7" width="100"/>
+
+</div>
+
+<div align="center">
 
 ## How to Use
 
