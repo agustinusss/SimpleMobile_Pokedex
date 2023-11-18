@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  **Minimum SDK Version: 34**
+  Minimum SDK Version: 34
 </p>
 
 <p align="left">
-  **When running this program the appearance is sometimes different from what it should be and I am still trying to fix it later 😅**
+  When running this program the appearance is sometimes different from what it should be and I am still trying to fix it later 😅
 </p>
 
 ## Preview
