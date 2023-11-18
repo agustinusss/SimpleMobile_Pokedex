@@ -1,0 +1,10 @@
+# Set language to Kotlin
+*.kt linguist-language=Kotlin
+
+# Kotlin-specific attributes
+*.kt text
+
+# Exclude files and directories
+build/ export-ignore
+.idea/ export-ignore
+*.iml export-ignore
