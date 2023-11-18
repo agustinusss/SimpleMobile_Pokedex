@@ -1,6 +1,12 @@
-# SimpleMobile_Pokedex
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png" alt="Kotlin Logo" width="100"/>
+</p>
 
-The Pokemon API client built using Moshi and Retrofit with Kotlin.
+<h1 align="center">SimpleMobile_Pokedex</h1>
+
+<p align="center">
+  The Pokemon API client built using Moshi and Retrofit with Kotlin.
+</p>
 
 ## Preview
 
@@ -8,14 +14,14 @@ The Pokemon API client built using Moshi and Retrofit with Kotlin.
 <img src="https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/344b393c-ac9e-48d7-8e0e-44382aab6859" width="100"/>
 
 ### Home Screen
-![Home Screen 1](https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/94d40284-0cb8-447d-a150-d36098c84617){width=100}
-![Home Screen 2](https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/cc54c66c-7330-46e9-8320-be19b2a1b62b){width=100}
+<img src="https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/94d40284-0cb8-447d-a150-d36098c84617" width="100"/>
+<img src="https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/cc54c66c-7330-46e9-8320-be19b2a1b62b" width="100"/>
 
 ### Detail Screen
-![Detail Screen](https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/17c07256-e367-4bf4-a7a5-372879718ed9){width=100}
+<img src="https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/17c07256-e367-4bf4-a7a5-372879718ed9" width="100"/>
 
 ### Profile Screen
-![Profile Screen](https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/435ea05f-e0d0-4c3c-834c-43122f3eeff7){width=100}
+<img src="https://github.com/agustinusss/SimpleMobile_Pokedex/assets/99394349/435ea05f-e0d0-4c3c-834c-43122f3eeff7" width="100"/>
 
 ## How to Use
 
